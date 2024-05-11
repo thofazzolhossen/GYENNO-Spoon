@@ -3,7 +3,7 @@
 
 <h1>Project Picture</h1>
 <h1>Picture 1</h1>
-![IMG_20240511_140708_937](https://github.com/thofazzolhossen/GYENNO-Spoon/assets/69817824/461ed183-f888-4ce7-b993-d4be9cb9196a)
+![IMG_20240511_140708_937](https://github.com/thofazzolhossen/GYENNO-Spoon/assets/69817824/f94760cb-7369-46ca-b9d3-159237f465ea)
 
 <h1>Picture 2</h1>
 ![IMG_20240511_140715_283](https://github.com/thofazzolhossen/GYENNO-Spoon/assets/69817824/1dac2630-8e97-4042-9fc0-4e0f6a493e7a)
