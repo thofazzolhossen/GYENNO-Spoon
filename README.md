@@ -1,4 +1,4 @@
-<h1>Using Arduino IDE, Arduino Uno, Servo Moto SG90, GY-521(MPU 6050)</h1>
+<h1>Using Arduino IDE, Arduino Uno, Servo Moto SG90, GY-521(MPU 6050) </h1>
 
 <h1>Project Picture</h1>
 <h1>Picture 1</h1>
